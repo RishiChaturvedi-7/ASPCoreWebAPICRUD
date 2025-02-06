@@ -16,4 +16,5 @@ public partial class Student
     public string? Standard { get; set; }
 
     public string? FatherName { get; set; }
+
 }
